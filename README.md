@@ -10,7 +10,7 @@ This is Php based web application.Only registered users can post a request for e
 
 3.DB Setup:
 
-In the CharlotteEvents directory, you will find a "DB" folder. In it, events.sql is there.
+In the folder directory, you will find a "DB" folder. In it, events.sql is there.
 
 -> Run XAMPP control panel by starting Apache and SQL ports.
 -> Go to browser and type localhost/phpmyadmin/
