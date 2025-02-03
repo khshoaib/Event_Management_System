@@ -20,7 +20,7 @@ In the folder directory, you will find a "DB" folder. In it, events.sql is there
 	create database `events`;
 	
 -> Now, click on Import-> Choose file(events.sql)-> Hit Go
--> You can view the 4 tables in your database.
+-> You can view the 3 tables in your database.
 
 
 4. Once you have setup your database, type URL "localhost/kamrul/index.php".
